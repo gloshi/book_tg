@@ -1,0 +1,3 @@
+aiogram
+peewee
+requests
